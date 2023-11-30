@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "express": "4.x.x",
+    "nodemon": "^2.0.15",
+    "socket.io": "4.x.x"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
